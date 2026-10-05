@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://lkjjr.github.io/D2D/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://lkjjr.github.io/D2D/</loc>
+</url>
+<url>
+<loc>https://lkjjr.github.io/D2D/35mm-galleries.html</loc>
+<lastmod>2026-09-30T14:21:31-04:00</lastmod>
+<image:image>
+<image:loc>https://lkjjr.github.io/D2D/media/posts/8/under-construction-gif-9.gif</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://lkjjr.github.io/D2D/digital-galleries.html</loc>
+<lastmod>2026-09-30T14:21:18-04:00</lastmod>
+<image:image>
+<image:loc>https://lkjjr.github.io/D2D/media/posts/7/animated_under_construction.gif</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://lkjjr.github.io/D2D/links-and-more.html</loc>
+<lastmod>2026-10-03T11:47:30-04:00</lastmod>
+<image:image>
+<image:loc>https://lkjjr.github.io/D2D/media/posts/11/coming-soon.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://lkjjr.github.io/D2D/london-in-balck-and-white-1977.html</loc>
+<lastmod>2026-10-03T09:59:01-04:00</lastmod>
+<image:image>
+<image:loc>https://lkjjr.github.io/D2D/media/posts/9/gallery/Big-Ben-thumbnail.webp</image:loc>
+<image:title><![CDATA[Big Ben]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://lkjjr.github.io/D2D/media/posts/9/gallery/Dorset-Arms-thumbnail.webp</image:loc>
+<image:title><![CDATA[Dorsett Arms Pub]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://lkjjr.github.io/D2D/media/posts/9/gallery/London-Street1-thumbnail.webp</image:loc>
+<image:title><![CDATA[Street Scene]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://lkjjr.github.io/D2D/media/posts/9/gallery/London-Kew-Gardens-thumbnail.webp</image:loc>
+<image:title><![CDATA[Kew Gardens]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://lkjjr.github.io/D2D/media/posts/9/gallery/London-Street4-thumbnail.webp</image:loc>
+<image:title><![CDATA[Street Scene]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://lkjjr.github.io/D2D/media/posts/9/gallery/London-Street3-thumbnail.webp</image:loc>
+<image:title><![CDATA[Street Scene]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://lkjjr.github.io/D2D/media/posts/9/gallery/London-Street2-thumbnail.webp</image:loc>
+<image:title><![CDATA[Street Scene]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://lkjjr.github.io/D2D/media/posts/9/gallery/Uncle-Gypsy-Lee-thumbnail.webp</image:loc>
+<image:title><![CDATA[Uncle Gypsy Lee]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://lkjjr.github.io/D2D/test-flight.html</loc>
+<lastmod>2026-10-05T08:25:10-04:00</lastmod>
+<image:image>
+<image:loc>https://lkjjr.github.io/D2D/media/posts/10/P51-2.webp</image:loc>
+<image:title><![CDATA[P51 Mustang much like one my dad flew from Iwo Jima in WWII]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://lkjjr.github.io/D2D/the-autumn-of-my-life.html</loc>
+<lastmod>2026-10-03T09:30:04-04:00</lastmod>
+<image:image>
+<image:loc>https://lkjjr.github.io/D2D/media/posts/1/IMG_0813-2.webp</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>
